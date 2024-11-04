@@ -1,10 +1,9 @@
 Elements of Network Science by Antonio Zinilli
 
-This repository includes data files and code used in the applications for each chapter of the book.
+This repository contains the data files and codes used throughout each chapter of Elements of Network Science.
 
-Repository Structure
+Each chapter is organized into its own folder with the following components:
 
-Each chapter has its own folder, containing:
+Case Study Folder: within each chapter's folder, the Case Study subfolder includes the code scripts and datasets applied in the case study examples, enabling replication and further exploration.
 
-Data Files: Datasets used in the examples and exercises for the chapter.
-Code Files: Scripts and code snippets implementing the analyses and models presented.
+Codes File: each chapter includes a Codes.txt file, listing the key code snippets referenced in the text.
